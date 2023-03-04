@@ -45,4 +45,4 @@ Soy Camilo Ardila Pacheco, actualmente aprendiendo computación en la nube como 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ludehsar&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludehsar&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
+[![](https://visitcount.itsvg.in/api?id=kmilo140&label=github&color=3&pretty=false)](https://visitcount.itsvg.in)
