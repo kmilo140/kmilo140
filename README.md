@@ -48,4 +48,4 @@ Soy Camilo Ardila Pacheco, actualmente aprendiendo computación en la nube como 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kmilo140&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kmilo140&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=kmilo140&label=github&color=3&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kmilo140&label=Visitas%20&color=3&pretty=false)](https://visitcount.itsvg.in)
