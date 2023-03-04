@@ -42,7 +42,10 @@ Soy Camilo Ardila Pacheco, actualmente aprendiendo computación en la nube como 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ludehsar&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludehsar&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kmilo140&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmilo140&hide=TeX&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=kmilo140&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kmilo140&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kmilo140&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=kmilo140&label=github&color=3&pretty=false)](https://visitcount.itsvg.in)
