@@ -1,6 +1,6 @@
 ### Hola 👋
 
-Soy Camilo Ardila Pacheco, autodidacta computación en la nube como data science en [Soy Henry](https://www.soyhenry.com/). Soy un desarrollador de Python, SQL. Me encanta escribir código limpio y fácil de mantener. ¡Busco colaborar en diferentes proyectos que me ayuden a crecer en esta increíble industria! Obtén más información sobre mí y siéntete libre de conectarte conmigo aquí: 
+Soy Camilo Ardila Pacheco, autodidacta en computación en la nube como data science en [Soy Henry](https://www.soyhenry.com/). Soy un desarrollador de Python, SQL. Me encanta escribir código limpio y fácil de mantener. ¡Busco colaborar en diferentes proyectos que me ayuden a crecer en esta increíble industria! Obtén más información sobre mí y siéntete libre de conectarte conmigo aquí: 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kmilo140/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](camilojoseardila@gmail.com)
