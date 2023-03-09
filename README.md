@@ -1,4 +1,4 @@
-<h1 align="center">👋, Camilo Ardila</h1>
+<h1 align="center">👋 Mucho gusto, Camilo Ardila</h1>
 <h3 align="center">Autodidacta en computación en la nube como Data Engineer. Soy un desarrollador de Python, SQL y Google Cloud. Me encanta escribir código limpio y fácil de mantener. ¡Busco colaborar en diferentes proyectos que me ayuden a crecer en esta increíble industria! Obtén más información sobre mí y siéntete libre de conectarte conmigo.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmilo140&label=Profile%20views&color=0e75b6&style=flat" alt="kmilo140" /> </p>
