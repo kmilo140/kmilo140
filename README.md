@@ -13,7 +13,7 @@
 
 - 📄 comoze mi hoja de vida [Descargar](https://github.com/kmilo140/kmilo140/raw/main/CV%20Camilo%20Ardila%20.pdf)
 
-- ⚡ Fun fact **Me guata cantar, realizar competiciones de atletismo de 7k y 12k.**
+- ⚡ Dato curioso **Me guata cantar, realizar competiciones de atletismo de 7k y 12k.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
