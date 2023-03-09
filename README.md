@@ -9,7 +9,7 @@
 
 - 📝 Escribo regularmente artículos en [proximamente...](proximamente...)
 
-- 📫 How to reach me **camilojoseardila@gmail.com**
+- 📫 Cómo localizarme **camilojoseardila@gmail.com**
 
 - 📄 comoze mi hoja de vida [aberigualr](aberigualr)
 
