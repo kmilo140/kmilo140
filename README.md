@@ -11,7 +11,7 @@
 
 - 📫 Cómo localizarme **camilojoseardila@gmail.com**
 
-- 📄 comoze mi hoja de vida [Descargar](https://github.com/kmilo140/kmilo140/raw/main/CV%20Camilo%20Ardila%20.pdf)
+- 📄 Mira mi hoja de vida [Descargar](https://github.com/kmilo140/kmilo140/raw/main/CV%20Camilo%20Ardila%20.pdf)
 
 - ⚡ Dato curioso **Me guata cantar, y realizar competiciones de atletismo de 7k y 12k.**
 
