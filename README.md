@@ -5,9 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Django, Flask y Tensorflow**
 
-- 👨‍💻 Todos mis proyectos están disponibles [proximamente....](proximamente....)
-
-- 📝 Escribo regularmente artículos en [proximamente...](proximamente...)
+- 👨‍💻 Todos mis proyectos están disponibles en este [Link](https://camilo-ardila.vercel.app/)
 
 - 📫 Cómo localizarme **camilojoseardila@gmail.com**
 
